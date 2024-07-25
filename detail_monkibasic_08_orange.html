@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MONKI</title>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="js/jquery.bxslider.js"></script>
+    <script src="js/jquery.fitvids.js"></script>
+    <script src="js/monki.js"></script>
+    <link rel="stylesheet" href="css/import.css">
+</head>
+<body>
+    <header>
+        <div class="top_banner">
+            <span>Get 10&percnt; off your first order!</span>
+            <a href="sign_in.html">
+                Sign-up now
+            </a>
+        </div>
+        <div>
+            <input type="button" value="menu" class="material-symbols-outlined mui">
+            <h1>
+                <a href="index.html">
+                    <img src="images/logo.png" alt="welcome to Monki!">
+                </a>
+            </h1>
+            <input type="search" placeholder="Product search">
+            <ul>
+                <li><a href="wishlist.html"><img src="images/icon_03.png" alt="wishlist"></a></li>
+                <li><a href="account.html"><img src="images/icon_02.png" alt="account"></a></li>
+                <li><a href="cart.html"><img src="images/icon_01.png" alt="cart"></a></li>
+            </ul>
+        </div>
+        <nav>
+            <input type="button" value="close" class="material-symbols-outlined mui">
+            <ul>
+                <li class="Monki_logo mui">
+                    <img src="images/logo.png" alt="Monki">
+                </li>
+                <li class="search mui">
+                    <input type="search" placeholder="Product search">
+                </li>
+                <li>
+                    <span>New in</span>
+                    <ol>
+                        <li><a href="list_all_new.html">View all new</a></li>
+                        <li><a href="list_clothes_new.html">Clothes</a></li>
+                        <li><a href="list_accessories_new.html">Accessories</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <span>Clothing</span>
+                    <ol>
+                        <li><a href="list_all_clothes.html">View all clothing</a></li>
+                        <li><a href="list_activewear_clothes.html">Activewear</a></li>
+                        <li><a href="list_coats_jackets_clothes.html">Coats &amp; Jackets</a></li>
+                        <li><a href="list_co_ord_sets_clothes.html">Co-ord sets</a></li>
+                        <li><a href="list_dresses_clothes.html">Dresses</a></li>
+                        <li><a href="list_jeans_clothes.html">Jeans</a></li>
+                        <li><a href="list_jumpsuits_dungarees_clothes.html">Jumpsuits &amp; Dungarees</a></li>
+                        <li><a href="list_knitewear_clothes.html">Knitewear</a></li>
+                        <li><a href="list_monkibasic_clothes.html">Monki basic</a></li>
+                        <li><a href="list_skirt_clothes.html">Skirt</a></li>
+                        <li><a href="list_sweatshirts_hoodies_clothes.html">Sweatshirts &amp; Hoodies</a></li>
+                        <li><a href="list_swimwear_clothes.html">Swimwear</a></li>
+                        <li><a href="list_tops_tshirt_clothes.html">Tops &amp; T-Shirt</a></li>
+                        <li><a href="list_troussers_blouses_clothes.html">Troussers &amp; Blouses</a></li>
+                        <li><a href="list_underwear_nightwear_clothes.html">Underwear &amp; Nightwear</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <span>Accessories</span>
+                    <ol>
+                        <li><a href="list_all_accessories.html">View all Accessories</a></li>
+                        <li><a href="list_bags_wallets_accessories.html">Bags &amp; Wallets</a></li>
+                        <li><a href="list_belts_accessories.html">Belts</a></li>
+                        <li><a href="list_hair_accessories_accessories.html">Hair Accessories</a></li>
+                        <li><a href="list_hats_scarves_gloves_accessories.html">Hats, Scarves &amp; Gloves</a></li>
+                        <li><a href="list_home_gifts_accessories.html">Home &amp; Gifts</a></li>
+                        <li><a href="list_jewellery_accessories.html">Jewellery</a></li>
+                        <li><a href="list_shoes_accessories.html">Shoes</a></li>
+                        <li><a href="list_socks_tights_accessories.html">Socks &amp; Tights</a></li>
+                        <li><a href="list_sunglasses_accessories.html">Sunglasses</a></li>
+                    </ol>
+                </li>
+                <li>
+                    <span>Reduced prices</span>
+                    <ol>
+                        <li><a href="list_all_reduced.html">View all</a></li>
+                        <li><a href="list_clothes_reduced.html">CLothes</a></li>
+                        <li><a href="list_accessories_reduced.html">Accessories</a></li>
+                    </ol>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="detailContainer">
+        <ul class="detailShot">
+            <li><img src="images/monkibasic_08_orange_01.jpg" alt="small image 1"></li>
+            <li><img src="images/monkibasic_08_orange_02.jpg" alt="small image 2"></li>
+            <li><img src="images/monkibasic_08_orange_03.jpg" alt="small image 3"></li>
+            <li><img src="images/monkibasic_08_orange_04.jpg" alt="small image 4"></li>
+        </ul>
+        <img src="images/monkibasic_08_orange_01.jpg" id="bigImage" alt="big image">
+        <div>
+            <h2>Textured t-shirt</h2>
+            <strong>$20</strong>
+        </div>
+        <div>
+            <span>Choose Color - Orange</span>
+            <a href="detail_monkibasic_08.html" id="col_black"></a>
+            <a href="detail_monkibasic_08_bubblegum_pink.html" id="col_bubblegum_pink"></a>
+            <a href="detail_monkibasic_08_orange.html" id="col_orange"></a>
+            <a href="detail_monkibasic_08_white.html" id="col_white"></a>
+        </div>    
+        <div>
+            <span>Choose Size</span>
+            <!-- <input type="radio" name="chk_size" id="XXS">
+            <label for="XXS">XXS</label> -->
+            <input type="radio" name="chk_size" id="XS">
+            <label for="XS">XS</label>
+            <input type="radio" name="chk_size" id="S" checked>
+            <label for="S">S</label>
+            <input type="radio" name="chk_size" id="M">
+            <label for="M">M</label>
+            <input type="radio" name="chk_size" id="L">
+            <label for="L">L</label>
+            <input type="radio" name="chk_size" id="XL">
+            <label for="XL">XL</label>
+            <input type="radio" name="chk_size" id="XXL">
+            <label for="XXL">XXL</label>
+            <!-- <input type="radio" name="chk_size" id="32">
+            <label for="X32">32</label>
+            <input type="radio" name="chk_size" id="34">
+            <label for="34">34</label>
+            <input type="radio" name="chk_size" id="36" checked>
+            <label for="36">36</label>
+            <input type="radio" name="chk_size" id="38">
+            <label for="38">38</label>
+            <input type="radio" name="chk_size" id="40">
+            <label for="40">40</label>
+            <input type="radio" name="chk_size" id="42">
+            <label for="42">42</label>
+            <input type="radio" name="chk_size" id="44">
+            <label for="44">44</label>
+            <input type="radio" name="chk_size" id="46">
+            <label for="46">46</label>
+            <input type="radio" name="chk_size" id="48">
+            <label for="48">48</label>
+            <input type="radio" name="chk_size" id="50">
+            <label for="50">50</label> -->
+            <span>
+                <a href="help_size_guide.html">Size Guide</a>
+            </span>
+            <a href="cart.html">ADD TO CART</a>
+            <input type="button" value="wish" class="toggleAction">
+        </div>
+        <div>
+            <h3>Description</h3>
+            <p>
+                A light orange short sleeved textured tee featuring a round neck and lettuce hem details.
+            </p>
+            <ul>
+                <li>Tight fit.</li>
+                <li>Regular length.</li>
+                <li>Made with recycled polyester.</li>
+                <!-- <li>Made with organic cotton.</li> -->
+                <!-- <li>Stretchy fabric.</li> -->
+                <!-- <li>Made with recycled polyester.</li> -->
+                <!-- <li>Made with recycled polyester.</li> -->
+            </ul>
+            <p>
+                In a size S the chest width is 78 cm and the length is 47 cm.
+                <!-- <br>
+                <br>
+                Customer note! The style is oversized, so we recommend going a size down if you're after a more fitted look. &lt;3 -->
+            </p>
+        </div>
+        <div>
+            <h3>Delivery</h3>
+            <ul>
+                <li>Free shipping for orders over 200 USD</li>
+                <li>Standard shipping: 19,9 USD.</li>
+                <li>Return fee: 25 USD</li>
+                <li>We accept Credit/Debit card, Klarna and PayPal</li>
+                <li>Minimum order value: 5 USD</li>
+            </ul>
+            <p>
+                Please note <br> 
+                During high season and Sale, delivery might take a little longer. Expected shipping times, including any delays or deviations, will be shown at the check-out.
+            </p>
+            <a href="help_payment_delivery.html">Read more here.</a>
+        </div>
+        <div>
+            <h3>Details & care</h3>
+
+            <h4>Composition</h4>
+            <p>
+                Polyester 97%, Elastane 3%
+            </p>
+
+            <h4>Additional material information</h4>
+            <p>
+                Shell: Recycled polyester 52%
+            </p>
+
+            <h4>Care instructions</h4>
+            <ul>
+                <li>40 degrees machine wash</li>
+                <li>Iron low heat</li>
+                <li>Do not dry clean</li>
+                <li>Line dry</li>
+                <li>Only non-chlorine bleach when needed</li>
+                <li>Wash with similar colours</li>
+            </ul>
+        </div>
+
+        <div>
+            <h2>SHOP SIMILAR ITEMS</h2>            
+            <ul class="similar-slider">
+                <li>
+                    <input type="button" value="wish" class="toggleAction">
+                    <img src="images/monkibasic_01_black.jpg" alt="Bike shorts">
+                    <a href="detail_monkibasic_01.html">
+                        Bike shorts
+                        <strong>$12.99</strong>
+                        <span>&plus; 2 More Colors</span>
+                    </a>
+                </li>
+                <li>
+                    <input type="button" value="wish" class="toggleAction">
+                    <img src="images/monkibasic_02_black.jpg" alt="Cropped zip top">
+                    <a href="detail_monkibasic_02.html">
+                        Cropped zip top
+                        <strong>$30</strong>
+                        <span>&plus; 1 More Colors</span>
+                    </a>
+                </li>
+                <li>
+                    <input type="button" value="wish" class="toggleAction">
+                    <img src="images/monkibasic_03_brightblue.jpg" alt="Cropped zip-up hoodie">
+                    <a href="detail_monkibasic_03.html">
+                        Cropped zip-up hoodie
+                        <strong>$30</strong>
+                        <span>&plus; 2 More Colors</span>
+                    </a>
+                </li>
+                <li>
+                    <input type="button" value="wish" class="toggleAction">
+                    <img src="images/monkibasic_04_black.jpg" alt="Oversized t-shirt">
+                    <a href="detail_monkibasic_04.html">
+                        Oversized t-shirt
+                        <strong>$20</strong>
+                        <span>&plus; 2 More Colors</span>
+                    </a>
+                </li>
+            </ul>            
+        </div>
+    </div>
+
+
+    <footer>
+        <div>
+            <div>
+                <h2>Help</h2>
+                <ul>
+                    <li><a href="help_contact_us.html">Contact us</a></li>
+                    <li><a href="help_payment_delivery.html">Payment &amp; delivery</a></li>
+                    <li><a href="help_return_refund.html">Return &amp; refund</a></li>
+                    <li><a href="help_faq.html">FAQ</a></li>
+                    <li><a href="help_student_discount.html">Student discount</a></li>
+                    <li><a href="help_size_guide.html">Size guide</a></li>
+                    <li><a href="help_jeans_guide.html">Jeans guide</a></li>
+                    <li><a href="help_garment_care.html">Garment care</a></li>
+                    <li><a href="help_holiday_delivery.html">Holiday delivery</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Info &amp; inspo</h2>
+                <ul>
+                    <li><a href="info_store_locator.html">Store locator</a></li>
+                    <li><a href="https://careers.smartrecruiters.com/HMGroup/monki">Work at Monki</a></li>
+                    <li><a href="info_press.html">Press</a></li>
+                    <li><a href="info_affiliate.html">Affiliate</a></li>
+                    <li><a href="info_monkisttle.html">&num;monkistyle</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Monki</h2>
+                <ul>
+                    <li><a href="monki_we_are_monki.html">We are monki</a></li>
+                    <li><a href="monki_transparency.html">Transparency</a></li>
+                    <li><a href="monki_salute_sisterhood.html">Salute Sisterhood</a></li>
+                </ul>
+            </div>
+            <div>
+                <h2>Legal</h2>
+                <ul>
+                    <li><a href="legal_privacy_notice.html">Privacy notice</a></li>
+                    <li><a href="legal_terms_conditions.html">Terms &amp; conditions</a></li>
+                    <li><a href="legal_sitemap.html">Sitemap</a></li>
+                    <li><a href="legal_cookie_notice.html">Cookie notice</a></li>
+                    <li><a href="legal_adr.html">ADR</a></li>
+                    <li><a href="legal_impressum.html">Impressum</a></li>
+                    <li><a href="legal_cookie_settings.html">Cookie settings</a></li>
+                </ul>
+            </div>
+            <ul>
+                <li><a href="https://www.facebook.com/Monki"><img src="images/sns_01.png" alt="facebook"></a></li>
+                <li><a href="https://www.pinterest.se/monkiworld/"><img src="images/sns_02.png" alt="pinterest"></a></li>
+                <li><a href="https://www.instagram.com/monki/"><img src="images/sns_03.png" alt="instagram"></a></li>
+                <li><a href="https://www.tiktok.com/@monki"><img src="images/sns_04.png" alt="tiktok"></a></li>
+                <li><a href="https://www.linkedin.com/company/monki/"><img src="images/sns_05.png" alt="indicator"></a></li>
+                <li><a href="https://open.spotify.com/user/1122676831"><img src="images/sns_06.png" alt="spotfiy"></a></li>
+            </ul>
+            <p>
+                Monki is the fun side of fashion. Monki online shop gives you dresses, jeans, wide leg trousers, oversized t-shirts, vegan leather platform sandals, chunky heels, accessories, and sooo much more – all with that special Monki-twist to them, and all designed to make you feel awesome. &lt;3 <br>
+                Monki is also a purpose-driven fashion brand that believes in sisterhood, the power of community, and in contributing to a more sustainable fashion industry. <br>
+                Monki.com delivers to 29 markets, and via International shipping to an additional 64 destinations worldwide. Over 60 concept stores offer the Monki IRL experience across 17 markets. Founded in 2006 in Sweden, Monki is a brand within the H&M group. © Monki
+            </p>
+        </div>
+    </footer>
+</body>

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Soehne-Krafting';
+    font-weight: 400;
+    src: url('../font/Soehne-Kraftig.ttf'),url('../font/Soehne-Kraftig.woff2');
+}
+@font-face {
+    font-family: 'Soehne-Leicht';
+    font-weight: 400;
+    src: url('../font/Soehne-Leicht.ttf'),url('../font/Soehne-Leicht.woff2');
+} 

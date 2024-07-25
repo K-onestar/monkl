@@ -1,0 +1,1073 @@
+.indexContainer h2, .indexContainer p,
+.list h2, .listContainer h2, .detailContainer > div:last-of-type h2,
+.signContainer h2, .resetPWcontainer h2, .accountContainer h2, .orderContainer h2,
+.wishlistContainer h2, .cartemptyContainer h2, .cartemptyContainer p, .orderafterContainer p,
+.orderafterContainer h2, .cartlistContainer h2, .checkoutContainer h2, .contactUs h2, .return_refund h2,
+.FAQ h2, .student_discount h2, .garment_care h2, .holiday_delivery h2, .size_guide h2, .payment_delivery h2,
+.jeans_guide h2, .monkistyleContainer h2, .pressContainer h2, .storelocatorContainer h2, .wearemonkiContainer h2,
+.transparencyContainer h2, .material_fibres_Container h2, .packagingContainer h2, .suppliersfactoriesContainer h2,
+.circularityContainer h2, .salutesisterhoodContainer h2, .retouchingcastingContainer h2, .projectcollabsContainer h2,
+.privacynoticeContainer h2, .termsconditionsContainer h2, .sitemapContainer h2, .impressumContainer h2, .adrContainer h2,
+.cookiesettingContainer h2, .cookienoticeContainer h2{
+    font-family: 'Lora';
+}
+
+header input[type='button']::placeholder,header nav ul > li, .top_banner,
+header nav ul > li:hover ol li a, .indexContainer ul li a,
+.indexContainer div ul li span, .indexContainer ul li figure figcaption,
+.indexContainer a, .indexContainer a, footer > div div ul li a,
+footer > div > p, .indexContainer div ul li a, .indexContainer div ul li > div span,
+.listContainer ol > li a, .sortbar label, .sortbar select, mark,
+.listContainer > ul li a, .pager ,.detailContainer div h2, .detailContainer > div:nth-of-type(5) a,
+.detailContainer > div:nth-of-type(3) span, .detailContainer div:nth-of-type(3) label,
+.detailContainer > div:nth-of-type(6) ul, .detailContainer > div:nth-of-type(5) p,
+.detailContainer > div:nth-of-type(5) ul, .detailContainer > div:nth-of-type(4) p,
+.detailContainer > div:nth-of-type(4) ul, .detailContainer > div:last-of-type ul li a,
+.detailContainer > div:last-of-type ul li a strong, .detailContainer > div:nth-of-type(2) span,
+.signContainer ul li span, .signContainer ul li input[type='submit'], .signContainer div:last-of-type ul li p,
+.resetPWcontainer ul li input[type='submit'], .signContainer ul li input[type='email']::placeholder,
+.resetPWcontainer ul li input[type='password']::placeholder, .signContainer ul li input[type='text']::placeholder,
+.signContainer ul li input[type='password']::placeholder, .resetPWcontainer ul li input[type='password'], 
+.resetPWcontainer ul li p, .resetPWcontainer ul li span, .signContainer div ul li:first-of-type p,
+.signContainer div:nth-of-type(3) ul li:nth-of-type(2) p, .accountContainer nav ul,
+.accountContainer div, .accountContainer div input[type='submit'], .orderContainer nav ul,
+.orderContainer div, .wishlistContainer nav, .wishlistContainer ul li input[type='submit'],
+.wishlistContainer ul li a, .wishlistContainer h3, .cartemptyContainer a, .orderafterContainer a,
+.cartlistContainer div, .checkoutContainer div, .cartlistContainer div:first-of-type ul li div input,
+.help-list-slider, .contactUs span, .contactUs p, .contactUs a, .contactUs h3, .payment_delivery h4,
+.payment_delivery p, .payment_delivery ul, .return_refund h4, .return_refund p, .return_refund ul,
+.FAQ h4, .FAQ p, .student_discount h3, .student_discount p, .student_discount ul, .garment_care h4,
+.garment_care p, .holiday_delivery p, .holiday_delivery h3, .size_guide h4, .size_guide p, .size_guide table,
+.size_guide ul li, .jeans_guide h4, .jeans_guide p, .jeans_guide ul, .jeans_guide table, 
+.jeans_guide a, .monkistyleContainer p, .monkistyleContainer a,.pressContainer h3, .pressContainer p,
+.affiliateContainer p, .affiliateContainer ul, .affiliateContainer h3, .storelocatorContainer h3,
+.storelocatorContainer ul, .wearemonkiContainer h3, .wearemonkiContainer p, 
+.material_fibres_Container p, .material_fibres_Container h4, .packagingContainer p, .packagingContainer ul,
+.packagingContainer h4, .suppliersfactoriesContainer h4, .suppliersfactoriesContainer p, .suppliersfactoriesContainer ul,
+.circularityContainer p, .circularityContainer h4, .salutesisterhoodContainer p, .retouchingcastingContainer h4, 
+.retouchingcastingContainer p, .projectcollabsContainer ul, .privacynoticeContainer h4, .privacynoticeContainer p,
+.termsconditionsContainer p, .termsconditionsContainer h4, .termsconditionsContainer h3, .termsconditionsContainer ul li::marker,
+.sitemapContainer h3, .sitemapContainer a, .impressumContainer p, .adrContainer h4, .adrContainer p,
+.cookiesettingContainer p, .cookiesettingContainer label, .cookiesettingContainer input[type='button'],
+.cookienoticeContainer table, .cookienoticeContainer p, .cookienoticeContainer h4, .cookienoticeContainer span{
+    font-family: 'Soehne-Leicht';
+}
+
+.banner span, footer > div div h2, .indexContainer div ul li a span, .indexContainer div span,
+.listContainer > ul li a span, .detailContainer div strong, .detailContainer > div:nth-of-type(6) h4,
+.detailContainer > div:nth-of-type(3) > a, .detailContainer > div:nth-of-type(4) h3,
+.detailContainer > div:nth-of-type(5) h3, .detailContainer > div:nth-of-type(6) h3,
+.detailContainer > div:last-of-type ul li a span, .signContainer h3, .wishlistContainer ul li a span,
+.payment_delivery h3, .return_refund h3, .FAQ h3, .garment_care h3, .size_guide h3, 
+.jeans_guide h3, .affiliateContainer h2, .transparencyContainer ul li a, .material_fibres_Container h3,
+.packagingContainer h3, .packagingContainer h5, .suppliersfactoriesContainer h3, .suppliersfactoriesContainer h5,
+.circularityContainer h3, .salutesisterhoodContainer ul li a, .salutesisterhoodContainer h3, .retouchingcastingContainer h3,
+.projectcollabsContainer h3, .privacynoticeContainer h3, .privacynoticeContainer ul li h5, .adrContainer h3,
+.cookiesettingContainer h3, .cookienoticeContainer h3{
+    font-family: 'Soehne-Krafting';
+}
+/* font */
+
+
+
+
+#forgotPW01, #forgotPW02, #myInfoCorrection{
+    display: none;
+}
+
+input[type='number']::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+#col_black{background-color: #000000;}
+#col_bright_green{background-color: #66ff00;}
+#col_light_turquoise{background-color: #afe4de;}
+#col_white{background-color: #ffffff;}
+#col_bright_blue{background-color: #0165fc;}
+#col_brown{background-color: #9b673c;}
+#col_lime_green{background-color: #b9ff66;}
+#col_dark_grey{background-color: #373737;}
+#col_grey{background-color: #808080;}
+#col_lilac{background-color: #bdb0d0;}
+#col_beige{background-color: #f5f5dc;}
+#col_yellow{background-color: #ffeda9;}
+#col_grey_melange{background-color: #cccac9;}
+#col_distressed_beige{background-color: #cfb997;}
+#col_metallic_bright_green{background-color: #18fb14;}
+#col_light_pink{background-color: #ffb6c1;}
+#col_off-white{background-color: #f5f5f5;}
+#col_rusty_red{background-color: #af2f0d;}
+#col_mole_brown{background-color: #392d2b;}
+#col_red{background-color: #ff0000;}
+#col_bright_red{background-color: #ee4b2b;}
+#col_dark_green{background-color: #013220;}
+#col_black_n_green{background-color: #3d3d3a;}
+#col_green{background-color: #00ff00;}
+#col_pink{background-color: #F698BD;}
+#col_dark_beige{background-color: #AC9362;}
+#col_silver{background-color: #D8D8D8;}
+#col_blue01{background-color: #0060FF;}
+#col_blue02{background-color: #0042AF;}
+#col_galaxy_black{background-color: #343C40;}
+#col_washed_black{background-color: #353433;}
+#col_dusty_blue{background-color: #5A86AD;}
+#col_sun-bleached_blue{background-color: #ADD9E8;}
+#col_blue{background-color: #0000ff;}
+#col_mustard{background-color: #FFDB58;}
+#col_bright_red{background-color: #FF000D;}
+#col_light_blue{background-color: #ADD8E6;}
+#col_bubblegum_pink{background-color: #FDC8DA;}
+#col_dusty_white{background-color: #E8E5D7;}
+#col_light_beige{background-color: #EAD2A8;}
+#col_orange{background-color: #EA871E;}
+#col_canyon_blue{background-color: #607B8E;}
+#col_dusty_light_pink{background-color: #FFB6C1;}
+#col_light_grey{background-color: #ACADAC;}
+#col_acid_washed_black{background-color: #353433;}
+#col_light_grey_melange{background-color: #CCCAC9;}
+#col_khaki{background-color: #C3B091;}
+#col_dark_brown{background-color: #5C4033;}
+#col_hot_pink{background-color: #FF69B4;}
+#col_shiny_pink{background-color: #FF70D2;}
+#col_mole{background-color: #B0A196;}
+#col_bright_purple{background-color: #D19FE8;}
+#col_light_purple{background-color: #B19CD9;}
+#col_dark_purple{background-color: #301934;}
+#col_dark_royal_blue{background-color: #144B86;}
+#col_dusty_beige{background-color: #D8C4AB;}
+#col_khaki_green{background-color: #65793C;}
+#col_medium_blue{background-color: #0000CD;}
+#col_bright_lime{background-color: #72FE00;}
+#col_burgundy{background-color: #800020;}
+#col_bright_orange{background-color: #FF8B28;}
+#col_bright_turquoise{background-color: #08E8DE;}
+#col_bright_pink{background-color: #FF007F;}
+#col_turquoise{background-color: #40E0D0;}
+#col_popping_pink{background-color: #D64FB4;}
+#col_dark_red{background-color: #8B0000;}
+#col_pastel_purple{background-color: #9A7FAE;}
+#col_purple{background-color: #800080;}
+#col_light_green{background-color: #90EE90;}
+#col_gold{background-color: #ffd700;}
+#col_tan{background-color: #d2b48c;}
+
+#col_holiday_cosy{
+    background-image: linear-gradient(45deg, #AD3235 15%, #EAE8DC 20% 35%, #15141A 40% 55%, #EAE8DC 60% 75%, #15141A 80%);
+}
+#col_holiday_star{
+    background-image: linear-gradient(45deg, #EEEBDC 15%, #882633 20% 35%, #1D2731 40% 55%, #CC9C5C 60% 75%, #781A28 80%);
+}
+#col_purple_white{
+    background-image: linear-gradient(45deg, #800080 45%, #fff 55%);
+}
+#col_fruit{
+    background-image: linear-gradient(45deg, #E0DBD5 15%, #FF8D53 25% 40%, #E8E4DB 45% 60%, #DEC938 65% 80%, #E8E4DB 85%);
+}
+#col_rgb{
+    background-image: linear-gradient(45deg, #fff 15%, #f00 20% 35%, #0f0 40% 60%, #00f 65% 80%, #fff 85%);
+}
+#col_white_multi_colour{
+    background-image: linear-gradient(45deg, #fff 10%, #DCD2ED 15% 20%, #E8B7BB 25% 30%, #E5B7A0 35% 40%, #F2E4B7 45% 50%,#E4E6D9 55% 60%, #B5E0C2 65% 70%, #B5E0C2 75% 80%, #F57633 85% 90%, #fff 95%);
+}
+#col_cat_flower{
+    background-image: linear-gradient(45deg, #72FE00 30%, #fff 35% 65%, #f6988d 70%);
+}
+#col_pink_white{
+    background-image: linear-gradient(45deg, #f6988d 45%, #fff 55%);
+}
+#col_rainbow{
+    background-image: linear-gradient(45deg,#f00 15%, #ffeda9 20% 35%, #0f0 40% 55%, #00f 60% 75%, #800080 80%);
+}
+#col_pink_strawberry{
+    background-image: radial-gradient(#343C40 10%,#FF007F 15%);
+}
+#col_mushroom{
+    background-image: radial-gradient(#E8E5D7 30%,#f00 35%);
+}
+#col_cloud_applique{
+    background-image: radial-gradient(#fff 30%,#ADD8E6 35%);
+}
+#col_black_with_pink_heart{
+    background-image: radial-gradient(#f6988d 30%,#000 35%);
+}
+#col_grey_n_black_stripes{
+    background-image: linear-gradient(45deg, #808080 45%, #000 55%);
+}
+#col_dark_red_n_pink_stripes{
+    background-image: linear-gradient(45deg, #8B0000 45%, #f6988d 55%);
+}
+#col_yellow_n_purple_check{
+    background-color: #ffeda9;
+    background-image: linear-gradient(transparent 20%, #800080 20% 40%, transparent 40% 60%, #800080 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #800080 20% 40%, transparent 40% 60%, #800080 60% 80%, transparent 80%);
+}
+#col_white_lime_green{
+    background-image: linear-gradient(45deg, #fff 45%, #b9ff66 55%);
+}
+#col_white_light_turquoise{
+    background-image: linear-gradient(45deg, #fff 45%, #08e8de 55%);
+}
+#col_red_black{
+    background-image: linear-gradient(45deg, #f00 45%, #000 55%);
+}
+#col_pink_black{
+    background-image: linear-gradient(45deg, #f6988d 45%, #000 55%);
+}
+#col_black_cobalt{
+    background-image: linear-gradient(45deg, #000 45%, #487BD6 55%);
+}
+#col_black_brown{
+    background-image: linear-gradient(45deg, #000 45%, #9b673c 55%);
+}
+#col_grey_n_pink{
+    background-image: linear-gradient(45deg, #808080 45%, #F698BD 55%);
+}
+#col_grey_n_khaki{
+    background-image: linear-gradient(45deg, #808080 45%, #C3B091 55%);
+}
+#col_black_white{
+    background-image: linear-gradient(45deg, #000 45%, #fff 55%);
+}
+#col_pink_n_rainbow{
+    background-image: linear-gradient(45deg, #F698BD 45%, #f00 55% 60%, #ffeda9 65% 70%, #0f0 75% 80%, #00f 85% 90%, #800080 95%);
+}
+#col_green_n_tortoise{
+    background-image: linear-gradient(45deg, #0f0 45%, #C8A681 55% 70%, #251B14 75% 80%,#C8A681 85%);
+}
+#col_black_n_silver{
+    background-image: linear-gradient(45deg, #000 45%, #d8d8d8 55%);
+}
+#col_white_w_black_ribbon{
+    background-image: linear-gradient(transparent 20%, #000 20% 25%, transparent 25% 45%, #000 45% 50%, transparent 50% 85%, #000 85% 90%, transparent 90%);
+}
+#col_purple_n_orange{
+    background-color: #DF8FD8;
+    background-image: linear-gradient(transparent 20%, #FA920F 20% 40%, transparent 40% 60%, #FA920F 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #FA920F 20% 40%, transparent 40% 60%, #FA920F 60% 80%, transparent 80%);
+}
+#col_pink_n_green{
+    background-color: #FA3D65;
+    background-image: linear-gradient(transparent 20%, #92D5A0 20% 40%, transparent 40% 60%, #92D5A0 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #92D5A0 20% 40%, transparent 40% 60%, #92D5A0 60% 80%, transparent 80%);
+}
+#col_grey_check{
+    background-image: linear-gradient(transparent 20%, #414141 20% 40%, transparent 40% 60%, #414141 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #414141 20% 40%, transparent 40% 60%, #414141 60% 80%, transparent 80%);
+}
+#col_beige_check{
+    background-color: #AC9362;
+    background-image: linear-gradient(transparent 20%, #f5f5dc 20% 40%, transparent 40% 60%, #f5f5dc 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #f5f5dc 20% 40%, transparent 40% 60%, #f5f5dc 60% 80%, transparent 80%);
+}
+#col_red_n_black_check{
+    background-color: #000000;
+    background-image: linear-gradient(transparent 20%, #f00 20% 40%, transparent 40% 60%, #f00 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #f00 20% 40%, transparent 40% 60%, #f00 60% 80%, transparent 80%);
+}
+#col_black_gingham{
+    background-image: linear-gradient(transparent 20%, #000 20% 40%, transparent 40% 60%, #000 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #000 20% 40%, transparent 40% 60%, #000 60% 80%, transparent 80%);
+}
+#col_pink_gingham{
+    background-image: linear-gradient(transparent 20%, #F698BD 20% 40%, transparent 40% 60%, #F698BD 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #F698BD 20% 40%, transparent 40% 60%, #F698BD 60% 80%, transparent 80%);
+}
+#col_purple_with_pink{
+    background-image: linear-gradient(45deg,#800080 40%,#ffb6c1 45% 55%,#800080 60%);
+}
+#col_colourful_clouds{
+    background: conic-gradient(#E7D9CC, #C6A9C7, #B5C797, #AFACA5, #ECADB8);
+}
+#col_brown_glitter{
+    background-color: #685547;
+}
+#col_blue_pinstripe{
+    background-image: linear-gradient(45deg,#243551 45%,#fff 45% 55%,#243551 55%);
+}
+#col_dalmatian{
+    background-image: linear-gradient(#27252A 25%, #CEC6AF 25% 40%, #27252A 40% 65%, #CEC6AF 65% 80%,#27252A 80%);
+}
+#col_spring_vibes{
+    background: conic-gradient(#F76B36,#EFEDE8,#F8B9BF,#E7E3E2,#CEAEBB,#BECC79);
+}
+#col_green_retro_flower_print{
+    background: conic-gradient(#01B55C, #EEA18F, #E5E5E5, #B7D3E1, #F1E7B2);
+}
+#col_yellow_colour_blocking{
+    background: conic-gradient(#ffeda9,#DE0E21,#BCA1CA,#E5CAC1,#D9D9DB);
+}
+#col_purple_retro_flower{
+    background-image: radial-gradient(#4A3789 30%, #6E59A8 35% 40%, #B8B6D6 45%);
+}
+#col_lilac_with_red_roses{
+    background-image: radial-gradient(#C52E1C 30%, #000 35% 40%, #9983B1 45%);
+}
+#col_black_with_yellow_cat{
+    background-image: radial-gradient(#ffeda9 30%, #000 35%);
+}
+#col_no_time_for_romance{
+    background-image: linear-gradient(#2A2623 35%, #E9E9E9 35% 40%, #2A2623 40% 75%, #E9E9E9 75% 80%,#2A2623 80%);
+}
+#col_flower{
+    background-image: radial-gradient(#27221d 30%, #a99a89 35%);
+}
+#col_dark_blue_n_white{
+    background-image: linear-gradient(45deg, #18171D 30%, #E0DCCD 35% 65%, #18171D 70%);
+}
+#col_pink_with_black_heart{
+    background-image: radial-gradient(#44312B 10%, #EFE8E2 15%);
+}
+#col_abstract_print{
+    background: conic-gradient(#A1D277,#5E442A,#313035,#9885C4);
+}
+#col_doodles{
+    background-image: linear-gradient(#2C2C2C 25%, #E8E8E8 25% 30%, #2C2C2C 30% 70%,#E8E8E8 70% 75%, #2C2C2C 75%);
+}
+#col_green_check{
+    background-color: #C3D1BB;
+    background-image: linear-gradient(transparent 20%, #223635 20% 40%, transparent 40% 60%, #223635 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #223635 20% 40%, transparent 40% 60%, #223635 60% 80%, transparent 80%);
+}
+#col_red_n_pink_checks{
+    background-color: #F698BD;
+    background-image: linear-gradient(transparent 20%, #f00 20% 40%, transparent 40% 60%, #f00 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #f00 20% 40%, transparent 40% 60%, #f00 60% 80%, transparent 80%);
+}
+#col_red_tartan{
+    background-color: #221E1B;
+    background-image: linear-gradient(transparent 20%, #f00 20% 40%, transparent 40% 60%, #f00 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #f00 20% 40%, transparent 40% 60%, #f00 60% 80%, transparent 80%);
+}
+#col_pink_stripes{
+    background-color: #DBA2AF;
+    background-image: linear-gradient(transparent 20%, #4D3D2C 20% 40%, transparent 40% 60%, #4D3D2C 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #D7CAB8 20% 40%, transparent 40% 60%, #D7CAB8 60% 80%, transparent 80%);
+}
+#col_blurred_digital_print{
+    background: conic-gradient(#4A3C4D,#BDC1DE,#727563,#78A595,#2AA1D9);
+}
+#col_digital_blur{
+    background: conic-gradient(#4A3C4D,#BDC1DE,#78A595,#2AA1D9);
+}
+#col_metallic_water{
+    background: conic-gradient(#B0BEBE,#44546E,#BCCACA,#C5B8A8);
+}
+#col_dark_beige_grid_check{
+    background-color: #0A090F;
+    background-image: linear-gradient(transparent 20%, #9F8D79 20% 40%, transparent 40% 60%, #9F8D79 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #9F8D79 20% 40%, transparent 40% 60%, #9F8D79 60% 80%, transparent 80%);
+}
+#col_tiny_check{
+    background-color: #D89AA7;
+    background-image: linear-gradient(transparent 20%, #D8CBBA 20% 40%, transparent 40% 60%, #D8CBBA 60% 80%, transparent 80%),
+    linear-gradient(90deg, transparent 20%, #483828 20% 40%, transparent 40% 60%, #483828 60% 80%, transparent 80%);
+}
+#col_black_n_white{
+    background-image: linear-gradient(#000 20%, #E8E8E8 20% 40%, #000 40% 60%,#E8E8E8 60% 80%, #000 80%);
+}
+#col_two-tone_red_n_pink{
+    background-image: linear-gradient(#E477A0 20%, #BE302C 20% 40%, #E477A0 40% 60%,#BE302C 60% 80%, #E477A0 80%);
+}
+#col_black_glitter{
+    background-color: #2C2B29;
+}
+#col_lime_zebra_print{
+    background-image: linear-gradient(#C2C945 20%, #E3E1D2 20% 40%, #C2C945 40% 65%, #E3E1D2 65% 80%, #C2C945 80%);
+}
+#col_black_n_white_marble{
+    background: conic-gradient(#1D1D1F,#DADAD8,#222224,#E6E7E2,#171717);
+}
+#col_red_fair_isle{
+    background-image: linear-gradient(#EF3938 20%, #770D19 20% 50%, #EAD7D3 50% 75%, #EF3938 75%);
+}
+#col_black_with_red_roses{
+    background-image: radial-gradient(#DB403E 25%, #12110C 30%);
+}
+#col_red_terry_rose{
+    background-image: radial-gradient(#920201 40%, #2A282B 45%);
+}
+#col_check_patchwork{
+    background-image: linear-gradient(#BDCB8D 20%, transparent 20% 40%, #1B191A 40% 60%, transparent 60% 80%, #DCDCDE 80%),
+    linear-gradient(90deg, #DCDCDE 20%, #2D2228 20% 40%, transparent 40% 60%, #483828 60% 80%, transparent 80%);
+}
+#col_black_n_white_gillter_smile{
+    background-image: linear-gradient(150deg, #171612 20%, #E3E1D4 20% 50%, #171612 50% 75%, #E3E1D4 75%);
+}
+#col_brown_snake{
+    background-color: #9E7A3C;
+    background-image: linear-gradient(#170F0D 20%, transparent 20% 40%, #170F0D 40% 60%, transparent 60% 80%, #170F0D 80%),
+    linear-gradient(45deg, #170F0D 20%, transparent 20% 40%, #170F0D 40% 60%, transparent 60% 80%, #170F0D 80%);
+}
+#col_scribble_eye_print{
+    background-image: linear-gradient(#E7E3D7 25%, #1F1B18 30% 35%, #E7E3D7 40% 70%, #1F1B18 75% 80%, #E7E3D7 85%);
+}
+#col_black_n_white_argyle{
+    background-color: #fff;
+    background-image: linear-gradient(45deg, transparent 20%, #000 20% 40%, transparent 40% 60%, #000 60% 80%, transparent 80%),
+    linear-gradient(135deg, transparent 20%, #000 20% 40%, transparent 40% 60%, #000 60% 80%, transparent 80%);
+}
+#col_red_roses{
+    background-image: radial-gradient(#EBCBCD 35%, #f00 40% 45%, #EBCBCD 50% 55%, #f00 60%);
+}
+#col_black_with_red_tint{
+    background-image: linear-gradient(#000 45%, #f00 45% 55%, #000 55%);
+}
+#col_scribble_flower{
+    background-image: radial-gradient(#D7D8DA 20%, #000 25% 35%, #D7D8DA 45% 55%, #000 60%);
+}
+#col_blue_flower{
+    background-image: radial-gradient(#10152A 5%,#D38865 10% 30%, #10152A 35%);
+}
+#col_cityscape{
+    background-image: linear-gradient(#DE3823 15%, #EDEDEB 20% 35%, #19181E 40% 55%, #ECD4D4 60% 75%, #6192BD 80%);
+}
+#col_red_n_pink_waves{
+    background-image: linear-gradient(150deg, #DD3520 20%, #EBD1CF 20% 50%, #DD3520 50% 75%, #EBD1CF 75%);
+}
+#col_striped_ribbon{
+    background-image: radial-gradient(#E9CFCF 25%,#DD3520 30% 40%, #10152A 45% 75%, #D0BEAC 80%);
+}
+#col_leopard_print,
+#col_leo_hearts{
+    background-image: radial-gradient(#96632E 10%, #150D02 15% 20%, #CCBDA8 25%);
+}
+#col_black_w_brushstokes{
+    background-image: linear-gradient(#343339 30%, #E7E5D9 35% 50%, #343339 55% 80%, #E7E5D9 85%);
+}
+/* color id */
+
+@media screen and (max-width: 767px){
+ /* ! 260px max-width */
+
+.pager{
+    text-align: center; margin: 50px 0 100px; 
+}
+.pager a, .pager ol{
+    display: inline-block; text-decoration: none; color: #414141; 
+}
+.pager a, .pager ol li a{
+    padding: 0 9px;
+}
+.pager > a{
+    font-size: 20px;
+}
+.pager ol li{
+    display: inline; font-size: 14px;
+}
+.pager a:hover, .pager ol li a:hover, .pager ol li a.acitve{
+    text-decoration: underline;
+}
+
+ .bx-wrapper .bx-controls-direction a{
+    width: 50px; height: 70px; background-repeat: no-repeat; z-index: 1; top: 40%;
+}
+.bx-wrapper .bx-controls .bx-controls-direction .bx-prev{
+    left: -55px; background: url('../images/mobile_left_con_01.png'); background-position: left 0 top 0; 
+}
+.bx-wrapper .bx-controls .bx-controls-direction .bx-prev:hover{
+    left: -55px; background: url('../images/mobile_left_con_02.png'); background-position: left 0 top 0; 
+}
+.bx-wrapper .bx-controls .bx-controls-direction .bx-next{
+    right: -40px; background: url('../images/mobile_con_01.png'); background-position: left 0 top 0; 
+}
+.bx-wrapper .bx-controls .bx-controls-direction .bx-next:hover{
+    right: -40px; background: url('../images/mobile_con_02.png'); background-position: left 0 top 0; 
+}
+
+
+.sortbar{
+    padding: 50px 0; position: relative;
+}
+.sortbar label{
+    position: absolute; left: 10px; font-size: 14px; font-weight: bold; top: 62px;
+}
+.sortbar select{
+    width: 260px; height: 40px; font-size: 14px;
+    border-radius: 5px; border: 1px solid #414141; text-indent: 55px;
+}
+
+span{
+    display: block;
+}
+.top_banner{
+    background-color: #000000; padding: 8px 0; text-align: center;
+}
+.top_banner span, .top_banner a{
+    color: #ffffff; font-size: 11px; line-height: 16px;
+}
+
+header, footer{
+    margin: 0 auto; 
+}
+
+header div:nth-of-type(2){
+    max-width: 260px; position: relative; margin: 0 auto;
+}
+header div:nth-of-type(2) input[type='button']{
+    background-color:#fff; border: 0; color: #414141; cursor: pointer; z-index: 1;
+    position: absolute; top: 25px;
+}
+header div:nth-of-type(2) h1{
+    max-width: 100px;  margin: 0 auto; 
+}
+header div:nth-of-type(2) h1 a{
+    display: block; 
+}
+header div:nth-of-type(2) h1 a img{
+    width: 100%; display: block; padding: 20px 0;
+}
+header div:nth-of-type(2) input[type="search"]{
+    display: none; 
+}
+header div:nth-of-type(2) ul{
+    position: absolute; right: 0; top: 30px; display: block;
+}
+header div:nth-of-type(2) ul li{
+    display: inline-block; width: 15px;
+}
+header div:nth-of-type(2) ul li:not(:first-of-type){
+    padding-left: 5px; 
+}
+header div:nth-of-type(2) ul li a img{
+    width: 15px;
+}
+
+
+header nav{
+    position: fixed; background-color: white; width: 100%; height: 100%; 
+    display: none;
+    border-bottom: 1px solid #717171; top: 0; left: 0; z-index: 10; overflow-y: scroll;
+}
+header nav.active{
+    display: block;
+}
+header nav input[type='button']{
+    position: absolute; z-index: 11; top: 35px; right: 5%; color: #414141;
+    border: 0; background: #fff; cursor: pointer;
+}
+header nav ul{
+    display: flex; width: 100%; height: 100%; flex-flow: column nowrap;
+}
+header nav ul > li{
+    padding: 0 5%;
+}
+header nav ul > li:first-child{
+    padding: 30px 0; text-align: center; margin: 0 auto;
+}
+header nav ul > li:first-child img{
+    width: 150px;
+}
+header nav ul > li:nth-child(2) input[type='search']{
+    height: 45px; font-size: 14px; color: #717171; position: absolute; width: 90%;
+    padding: 0 20px; border-radius: 5px; border-width: 0; 
+    box-sizing: border-box; background-image: url("/images/search_icon.png");
+    background-color: #ede8e2; background-repeat: no-repeat;
+    background-position: right 20px center;
+}
+header nav ul > li:nth-child(3){
+    margin-top: 70px;
+}
+header nav ul > li:nth-child(n+3){
+    line-height: 50px; box-sizing: border-box; cursor: pointer; width: 100%; 
+}
+header nav ul > li:nth-child(n+3){
+    position: relative;
+}
+header nav ul > li:nth-child(n+3) span::after{
+    position: absolute; top: 0; right: 8%;
+    display: block; rotate: 180deg;
+    content: url('../images/arrow_down.png');
+}
+header nav ul > li:nth-child(n+3) span:hover::after{
+    rotate: 0deg;
+}
+
+header nav ul > li:nth-child(n+3) span{
+    border-bottom: 1px solid #414141; padding-left: 3%;
+}
+header nav ul > li:nth-child(3) span{
+    border-top: 1px solid #414141;
+}
+header nav ul > li:nth-child(n+3) ol{
+    display: none; list-style: none;
+    border-bottom: 1px solid #414141; 
+}
+header nav ul > li ol.active{
+    display: flex; flex-flow: column wrap; text-align: left; justify-content: flex-start;
+    background-color: #fff; width: 100%;
+}
+header nav ul > li ol li{
+    padding-left: 3%;
+}
+header nav ul > li ol li a{
+    text-decoration: none; color: #000000; font-size: 14px; display: block;
+}
+
+
+
+
+footer{
+    background-color: #f3eee8;
+}
+footer > div{
+    max-width: 260px; margin: 0 auto; position: relative; padding: 50px 0;
+}
+footer > div div{
+    border-top: 1px solid #414141;
+}
+footer > div div h2{
+    font-size: 24px; color: #1a1713; cursor: pointer; display: block; padding: 20px 0;
+    position: relative;
+}
+footer > div div h2::after{
+    position: absolute; right: 8%; top: 29px;
+    display: block; transform: rotate(180deg);
+    transition: transform .5s ease-out;
+    content: url('../images/arrow_down.png');
+}
+footer > div div h2:hover::after{
+    transform: rotate(0deg); top: 15px;
+}
+footer > div div:last-of-type{
+    border-bottom: 1px solid #414141;
+}
+
+footer > div div ul{
+    display: none; border-top: 1px solid #414141; padding: 20px 0 10px;
+}
+footer > div div ul li{
+    margin-bottom: 20px; list-style: none;
+}
+footer > div div ul li a{
+    font-size: 14px; color: #1a1713; text-decoration: none;
+}
+footer > div div ul li a:hover{
+    text-decoration: underline;
+}
+
+footer > div div:hover ul,
+footer > div div:focus-within ul{
+    display: block;
+}
+
+
+
+footer > div > ul{
+    display: block; margin-top: 50px; text-align: center; margin-bottom: 50px;
+}
+footer > div > ul li{
+    list-style: none; display: inline-block; 
+}
+footer > div > ul li:not(:first-of-type){
+    margin-left: 15px;
+}
+footer > div > ul li a img{
+    width: 20px; height: 20px; 
+}
+footer > div > p{
+    text-align: center; font-size: 11px; color: #717171; line-height: 14px;
+}
+
+}
+
+
+
+@media screen and (min-width: 768px) and (max-width: 1279px){
+    
+    .pager{
+        text-align: center; margin: 50px 0 100px;
+    }
+    .pager a, .pager ol{
+        display: inline-block; text-decoration: none; color: #414141; 
+    }
+    .pager a, .pager ol li a{
+        padding: 0 25px;
+    }
+    .pager > a{
+        font-size: 20px;
+    }
+    .pager ol li{
+        display: inline; font-size: 14px;
+    }
+    .pager a:hover, .pager ol li a:hover, .pager ol li a.acitve{
+        text-decoration: underline;
+    }
+
+
+    .bx-wrapper .bx-controls-direction a{
+        width: 50px; height: 70px; background-repeat: no-repeat; z-index: 1; top: 40%;
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-prev{
+        left: -45px; background: url('../images/tablet_left_con_01.png'); background-position: left 0 top 0; 
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-prev:hover{
+        left: -45px; background: url('../images/tablet_left_con_01.png'); background-position: left 0 top 0; 
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-next{
+        right: -45px; background: url('../images/tablet_con_01.png'); background-position: left 0 top 0; 
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-next:hover{
+        right: -45px; background: url('../images/tablet_con_02.png'); background-position: left 0 top 0; 
+    }
+
+
+    .sortbar{
+        padding: 50px 0; position: relative;
+    }
+    .sortbar label{
+        position: absolute; left: 10px; font-size: 14px; font-weight: bold; top: 62px;
+    }
+    .sortbar select{
+        width: 200px; height: 40px; font-size: 14px;
+        border-radius: 5px; border: 1px solid #414141; text-indent: 55px;
+    }
+
+    /* .bx-viewport{
+        max-width: 668px;
+    } */
+
+    span{
+        display: block;
+    }
+    .top_banner{
+        background-color: #000000; padding: 8px 0; text-align: center;
+    }
+    .top_banner span, .top_banner a{
+        color: #ffffff; font-size: 11px; line-height: 16px;
+    }
+
+    header, footer{
+        margin: 0 auto; 
+    }
+
+   
+    header div:nth-of-type(2){
+        max-width: 668px; position: relative; margin: 0 auto;
+    }
+    header div:nth-of-type(2) input[type='button']{
+        background-color:#fff; border: 0; color: #414141; cursor: pointer; z-index: 1;
+        position: absolute; top: 40px;
+    }
+    header div:nth-of-type(2) h1{
+        max-width: 198px;  margin: 0 auto; 
+    }
+    header div:nth-of-type(2) h1 a{
+        display: block; 
+    }
+    header div:nth-of-type(2) h1 a img{
+        width: 100%; display: block; padding: 20px 0;
+    }
+    header div:nth-of-type(2) input[type="search"]{
+        display: none; 
+    }
+    header div:nth-of-type(2) ul{
+        position: absolute; right: 0; top: 40px; display: block;
+    }
+    header div:nth-of-type(2) ul li{
+        display: inline-block;
+    }
+    header div:nth-of-type(2) ul li:not(:first-of-type){
+        padding-left: 25px;
+    }
+
+
+    header nav{
+        position: fixed; background-color: white; width: 100%; height: 100%; 
+        display: none;
+        border-bottom: 1px solid #717171; top: 0; left: 0; z-index: 10; overflow-y: scroll;
+    }
+    header nav.active{
+        display: block;
+    }
+    header nav input[type='button']{
+        position: absolute; z-index: 11; top: 50px; right: 5%; color: #414141;
+        border: 0; background: #fff; cursor: pointer;
+    }
+    header nav ul{
+        display: flex; width: 100%; height: 100%; flex-flow: column nowrap;
+    }
+    header nav ul > li{
+        padding: 0 5%; width: 700px;
+    }
+    header nav ul > li:first-child{
+        padding: 30px 0; text-align: center; margin: 0 auto;
+    }
+    header nav ul > li:first-child img{
+        width: 200px;
+    }
+    header nav ul > li:nth-child(2) input[type='search']{
+        height: 45px; font-size: 14px; color: #717171; position: absolute; width:90%;
+        padding: 0 20px; border-radius: 5px; border-width: 0; 
+        box-sizing: border-box; background-image: url("/images/search_icon.png");
+        background-color: #ede8e2; background-repeat: no-repeat;
+        background-position: right 20px center;
+    }
+    header nav ul > li:nth-child(3){
+        margin-top: 70px;
+    }
+    header nav ul > li:nth-child(n+3){
+        line-height: 50px; box-sizing: border-box; cursor: pointer; width: 100%; 
+    }
+    header nav ul > li:nth-child(n+3){
+        position: relative;
+    }
+    header nav ul > li:nth-child(n+3) span::after{
+        position: absolute; top: 0; right: 8%;
+        display: block; rotate: 180deg;
+        content: url('../images/arrow_down.png');
+    }
+    header nav ul > li:nth-child(n+3) span:hover::after{
+        rotate: 0deg;
+    }
+
+    header nav ul > li:nth-child(n+3) span{
+        border-bottom: 1px solid #414141; padding-left: 3%;
+    }
+    header nav ul > li:nth-child(3) span{
+        border-top: 1px solid #414141;
+    }
+    header nav ul > li:nth-child(n+3) ol{
+        display: none; list-style: none;
+        border-bottom: 1px solid #414141; 
+    }
+    header nav ul > li ol.active{
+        display: flex; flex-flow: column wrap; text-align: left; justify-content: flex-start;
+        background-color: #fff; width: 100%;
+    }
+    header nav ul > li ol li{
+        padding-left: 3%;
+    }
+    header nav ul > li ol li a{
+        text-decoration: none; color: #000000; font-size: 14px; display: block;
+    }
+
+ 
+
+
+    footer{
+        background-color: #f3eee8;
+    }
+    footer > div{
+        max-width: 668px; margin: 0 auto; position: relative; padding: 50px 0;
+    }
+    footer > div div{
+        float: left; width: 20%; 
+    }
+    footer > div div:not(:first-of-type){
+        margin-left: 6.6%;
+    }
+    footer > div div h2{
+        font-size: 24px; color: #1a1713; margin-bottom: 25px;
+    }
+    footer > div div ul li{
+        margin-bottom: 15px; list-style: none;
+    }
+    footer > div div ul li a{
+        font-size: 14px; color: #1a1713; text-decoration: none;
+    }
+    footer > div div ul li a:hover{
+        text-decoration: underline;
+    }
+
+    footer > div > ul{
+        display: block; margin-top: 400px; text-align: center; margin-bottom: 50px;
+    }
+    footer > div > ul li{
+        list-style: none; display: inline-block; 
+    }
+    footer > div > ul li:not(:first-of-type){
+        margin-left: 20px;
+    }
+    footer > div > ul li a img{
+        width: 20px; height: 20px; 
+    }
+    footer > div > p{
+        text-align: center;  top: 77%;
+        font-size: 11px; color: #717171; line-height: 14px;
+    }
+}
+
+
+@media screen and (min-width: 1280px){
+    
+    .pager{
+        text-align: center; margin: 50px 0 100px;
+    }
+    .pager a, .pager ol{
+        display: inline-block; text-decoration: none; color: #414141; 
+    }
+    .pager a, .pager ol li a{
+        padding: 0 25px;
+    }
+    .pager > a{
+        font-size: 20px;
+    }
+    .pager ol li{
+        display: inline; font-size: 14px;
+    }
+    .pager a:hover, .pager ol li a:hover, .pager ol li a.acitve{
+        text-decoration: underline;
+    }
+
+    
+    .bx-wrapper .bx-controls-direction a{
+        width: 50px; height: 100px; background-repeat: no-repeat; z-index: 1; top: 40%;
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-prev{
+        left: -100px;; background: url('../images/con_left_01.png'); background-position: left 0 top 100px; 
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-prev:hover{
+        left: -100px;; background: url('../images/con_left_02.png'); background-position: left 0 top 100px; 
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-next{
+        right: -100px; background: url('../images/con_right_01.png'); background-position: left -25px top 100px; 
+    }
+    .bx-wrapper .bx-controls .bx-controls-direction .bx-next:hover{
+        right: -100px; background: url('../images/con_right_02.png'); background-position: left -25px top 100px; 
+    }
+
+    [class$='mui']{
+        display: none;
+    }
+
+    span{
+        display: block;
+    }
+    .top_banner{
+        background-color: #000000; text-align: center; padding: 8px 0;
+    }
+    .top_banner span, .top_banner a{
+        color: #ffffff; font-size: 11px; line-height: 16px;
+    }
+    
+    .sortbar{
+        padding: 50px 0; position: relative;
+    }
+    .sortbar label{
+        position: absolute; left: 10px; font-size: 14px; font-weight: bold; top: 62px;
+    }
+    .sortbar select{
+        width: 200px; height: 40px; font-size: 14px;
+        border-radius: 5px; border: 1px solid #414141; text-indent: 55px;
+    }
+    
+
+    header, footer{
+        margin: 0 auto; 
+    }
+
+    header div:nth-of-type(2){
+        max-width: 1460px; position: relative; margin: 0 auto; padding: 20px 0;
+    }
+    header div:nth-of-type(2) h1{
+        max-width: 198px;
+    }
+    header div:nth-of-type(2) h1 a{
+        display: block;
+    }
+    header div:nth-of-type(2) h1 a img{
+        width: 100%; display: block;
+    }
+    header div:nth-of-type(2) input[type="search"]{
+        display: block; position: absolute; left: 15%; top: 30px;
+        width: 73%; height: 45px; font-size: 14px; color: #717171;
+        padding: 0 20px; border-radius: 5px; border-width: 0; 
+        box-sizing: border-box;
+        background-image: url("/images/search_icon.png");
+        background-color: #ede8e2; background-repeat: no-repeat;
+        background-position: right 20px center;
+    }
+    header div:nth-of-type(2) ul{
+        position: absolute; right: 0; top: 40px; display: block;
+    }
+    header div:nth-of-type(2) ul li{
+        display: inline-block;
+    }
+    header div:nth-of-type(2) ul li:not(:first-of-type){
+        padding-left: 25px;
+    }
+    header nav{
+        border-top:1px solid #717171; position: relative; background-color: white;
+        border-bottom: 1px solid #717171;
+    }
+    header nav:hover{
+        border-bottom: 1px solid #717171; height: 350px;
+    }
+    header nav ul{
+        max-width: 1460px; margin: 0 auto; text-align: center; position: relative;
+    }
+    header nav ul:after{
+        content: ''; display: block; clear: both;
+    }
+    header nav ul > li {
+        width: 25%; float: left; line-height: 50px; font-size: 11px; color: #000000;
+        cursor: pointer;
+    }
+    header nav ul > li:hover{
+        text-decoration: underline;
+    }
+    header nav ul > li ol{
+        display: none; list-style: none;
+    }
+    header nav ul > li:hover ol{
+        display: flex; flex-flow: column wrap; text-align: left; height: 300px; justify-content: flex-start;
+        position: absolute; left: 0; top: 50px; background-color: #fff; width: 100%; z-index: 1;
+    }
+    header nav ul > li:hover ol li a{
+        text-decoration: none; color: #000000; font-size: 14px;
+    }
+    header nav ul > li:hover ol li a:hover{
+        text-decoration: underline;
+    }
+
+
+
+    footer{
+        background-color: #f3eee8;
+    }
+    footer > div{
+        max-width: 1460px; margin: 0 auto; position: relative; padding: 50px 0; 
+    }
+    footer > div::after{
+        display: block; content: ''; clear: both;
+    }
+    footer > div div{
+        float: left; width: 21.2%;
+    }
+    footer > div div:not(:first-of-type){
+        margin-left: 5%;  margin-bottom: 150px;
+    }
+    footer > div div h2{
+        font-size: 24px; color: #1a1713; margin-bottom: 25px;
+    }
+    footer > div div ul li{
+        margin-bottom: 15px; list-style: none;
+    }
+    footer > div div ul li a{
+        font-size: 14px; color: #1a1713; text-decoration: none;
+    }
+    footer > div div ul li a:hover{
+        text-decoration: underline;
+    }
+
+    footer > div > ul{
+        margin-top: 418px; display: inline;
+    }
+    footer > div > ul li{
+        list-style: none; display: inline-block; 
+    }
+    footer > div > ul li:not(:first-of-type){
+        margin-left: 20px;
+    }
+    footer > div > ul li a img{
+        width: 20px; height: 20px;
+    }
+    footer > div > p{
+        float: right;
+        text-align: right; width: 800px; display:block;
+        font-size: 11px; color: #717171; line-height: 14px;
+    }
+}
